@@ -1,1 +1,1 @@
-# didactic-enigma
+# enigma
